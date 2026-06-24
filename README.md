@@ -70,7 +70,10 @@ AI Coding and AI Video.
 
 **China platforms** · 全网同名「Elio的AI日记」
 
-**Main channels** · 公众号 · B站 · 小红书 · 抖音
+- **公众号** · [Elio的AI日记](https://weixin.sogou.com/weixin?type=1&query=Elio%E7%9A%84AI%E6%97%A5%E8%AE%B0)
+- **B站** · [Elio的AI日记](https://search.bilibili.com/upuser?keyword=Elio%E7%9A%84AI%E6%97%A5%E8%AE%B0)
+- **小红书** · [Elio的AI日记](https://www.xiaohongshu.com/search_result?keyword=Elio%E7%9A%84AI%E6%97%A5%E8%AE%B0)
+- **抖音** · [Elio的AI日记](https://www.douyin.com/search/Elio%E7%9A%84AI%E6%97%A5%E8%AE%B0)
 
 **GitHub** · [@shiyangye6](https://github.com/shiyangye6)
 
