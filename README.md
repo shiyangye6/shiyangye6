@@ -26,11 +26,14 @@ AI Coding and AI Video.
 
 我会把自己真实用过的 AI 编程方法、开发流程和踩坑记录下来。重点不是炫技，而是把一个想法从 0 到 1 做出来：需求怎么拆、代码怎么写、结果怎么测、哪里容易翻车。
 
+[![ai-coding-diary](https://img.shields.io/github/stars/shiyangye6/ai-coding-diary?style=flat&label=ai-coding-diary)](https://github.com/shiyangye6/ai-coding-diary)
 [![festival-copywriter](https://img.shields.io/github/stars/shiyangye6/festival-copywriter?style=flat&label=festival-copywriter)](https://github.com/shiyangye6/festival-copywriter)
 
 **AI Video · 用 AI 重做内容生产流程**
 
 我正在研究 AI 视频的完整链路：选题、资料整理、脚本、分镜、画面、配音、剪辑和多平台发布。我的目标不是做“看起来很 AI”的视频，而是让 AI 真正帮创作者提高产能和质量。
+
+[![ai-video-diary](https://img.shields.io/github/stars/shiyangye6/ai-video-diary?style=flat&label=ai-video-diary)](https://github.com/shiyangye6/ai-video-diary)
 
 **Elio的AI日记 · 国内平台的内容主线**
 
